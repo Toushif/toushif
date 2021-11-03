@@ -33,20 +33,20 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" title="JavaScript" src="http://localhost:8000/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="http://localhost:8000/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
+<img style="margin: 10px" title="JavaScript" src="./skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="./skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="./skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="./skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="./skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="./skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="./skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="./skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
+<img style="margin: 10px" src="./skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="./skills-assets/nestjs.svg" alt="NestJS" height="50" />  
+<img style="margin: 10px" src="./skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="./skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="./skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
