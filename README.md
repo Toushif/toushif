@@ -1,12 +1,11 @@
-
+### <div align="center">Hi there 👋</div> 
 
 <div align="center">
 <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" align="center" height="300" width="400" />
 </div>  
   
 <br/> 
-
-### <div align="center">Hi there 👋</div>  
+ 
 ### <div align="center">I'm Toushif, a Frontend turned Full Stack Engineer👨‍💻 obsessed with JavaScript since 2016 🚀</div>  
   
 
