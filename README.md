@@ -1,11 +1,17 @@
+
+### <div align="center">Hi there 👋</div> 
+
 <div align="center">
 <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" align="center" height="300" width="400" />
-</div>
+</div>  
+  
+<br/> 
+ 
+### <div align="center">I'm Toushif, a Frontend turned Full Stack Engineer👨‍💻 obsessed with JavaScript since 2016 🚀</div>  
+  
 
-### <div align="center">Hi there 👋, I'm Toushif, a Frontend turned Full Stack Engineer👨‍💻 obsessed with JavaScript since 2016 🚀</div>
-
--   🔭 I’m currently working on my own [GreenyTale](https://github.com/rishavanand/github-profilinator)🛒🌲 E-commerce Platform
-
+- 🔭 I’m currently working on my own [GreenyTale](http://greenitale.herokuapp.com/)🛒🌲 E-commerce Platform  
+  
 -   🌱 I’m currently learning NextJS and React 18 Server Components😉
 
 -   ❓ Ask me anything related to JavaScript!✨
